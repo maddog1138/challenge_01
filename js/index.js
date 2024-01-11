@@ -1,9 +1,9 @@
 
 const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
-function getRandomLetter() {
-    return (Letters[Math.floor(Math.random()*26)])
-}
+
+
+
 
 
 function scrambleText(event){
