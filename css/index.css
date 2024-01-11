@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+}
+
+#codename {
+    color: white;
+    font-size: 3rem;
+    font-family: "Space Mono", monospace;
+    cursor:crosshair;
+    border:1px solid white;
+}
